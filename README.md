@@ -1,3 +1,4 @@
 # Ranking project
 This project is my first project.
-Coder: Muhammadqodir Jalilov
+
+Software engineer: Muhammadqodir Jalilov
